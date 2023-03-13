@@ -1,0 +1,8 @@
+blueprints are structure definers and using these u can write routes in diff files.
+name of route takes the name of the blueprint in that particular files
+
+{% %} for extending, logic writing
+{{}} for variable accessing, can also do {{text+"s"}} , basic python inside html
+
+POST request is a request from user to create or change data in the database
+GET request is just retrieving data from the website
